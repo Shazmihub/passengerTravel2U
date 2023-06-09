@@ -1,10 +1,8 @@
 # MapsTracking
 
-A new Flutter project.
+Flutter project for passenger.
 
 ## Getting Started
-
-### Getting started continued:
 
 This project is a starting point for a Flutter application.
 
