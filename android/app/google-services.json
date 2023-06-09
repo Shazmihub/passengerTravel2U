@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "830318063847",
+    "project_id": "rider-app-25239",
+    "storage_bucket": "rider-app-25239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830318063847:android:d5e7023b5ce52e60033242",
+        "android_client_info": {
+          "package_name": "io.flutterflow.mapstracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830318063847-pvkblesk2ls6kpdtis6d5sfdl7cq9gem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGGZJby_B6sXWq-WXrVp1f3qVDTyTxnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830318063847-pvkblesk2ls6kpdtis6d5sfdl7cq9gem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830318063847-0t5po5d75q1r9frptclf1toluqirsr8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutterflow.mapstracking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
